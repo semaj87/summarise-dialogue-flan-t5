@@ -12,7 +12,7 @@ final decision about next word generation. Configuration parameters that were ch
 
 ## Generative AI project lifecycle
 
-![Generative AI project lifecycle](../summarise-dialogue-flan-t5/img/generative-ai-project-lifecycle.png)
+![Generative AI project lifecycle](img/generative-ai-project-lifecycle.png)
 
 
 ## Model and dataset
