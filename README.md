@@ -29,13 +29,6 @@ Dataset: [DialogueSum](https://huggingface.co/datasets/knkarthick/dialogsum)
 - PyTorch
 
 
-## Run the notebook
-
-```bash
-source build.sh
-```
-
-
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
